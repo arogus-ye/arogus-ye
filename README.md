@@ -1,2 +1,1 @@
-- @arogus-ye
-https://arogus.com
+arogus-ye @ https://arogus.com
